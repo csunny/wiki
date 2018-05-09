@@ -1,9 +1,14 @@
-### 使用教程
+## 使用教程
+- ** chrome插件安装
+- ** 创建钱包
+- ** 上传图片
+- ** 图片下载
+- ** 说明
 
-#### Chrome插件安装
+#### Chrome插件安装 
 
 ```
-从源码安装chrome钱包插件，首先[下载](https://github.com/ChengOrangeJu/WebExtensionWallet) 源码。 打开chrome浏览器更多工具 —— 扩展程序 —— 加载已解压程序
+从源码安装chrome钱包插件，首先 [下载](https://github.com/ChengOrangeJu/WebExtensionWallet) 源码。 打开chrome浏览器更多工具 —— 扩展程序 —— 加载已解压程序
 
 做完以上动作，插件钱包就安装成功了，接入来进行个人钱包的创建。
 ```
@@ -32,3 +37,8 @@
 点击图片下载首先会触发转账，即下载人pay for 作者。 作者获取相应的收益。
 
 ```
+
+#### 说明书
+
+![](https://github.com/csunny/wiki/blob/master/resource/定位.jpg)
+![](https://github.com/csunny/wiki/blob/master/resource/商业模式.jpg)
